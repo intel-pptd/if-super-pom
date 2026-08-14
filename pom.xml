@@ -6,7 +6,7 @@
 	<!-- IMPORTANT: groupId can be your orgId -->
 	<groupId>com.intel.sc</groupId>
 	<artifactId>if-super-pom</artifactId>
-	<version>1.0.2</version>
+	<version>1.0.3</version>
 
 	<!-- MUST be pom -->
 	<packaging>pom</packaging>
