@@ -50,6 +50,13 @@
 			</dependency>
 
 			<dependency>
+					<groupId>com.mysql</groupId>
+					<artifactId>mysql-connector-j</artifactId>
+					<version>8.1.0</version>
+					<scope>compile</scope>
+			</dependency>
+			
+			<dependency>
 				<groupId>com.intel</groupId>
 				<artifactId>esb-domain-46</artifactId>
 				<version>1.0.0</version>
